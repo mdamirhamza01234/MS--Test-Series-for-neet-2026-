@@ -1,0 +1,11 @@
+{
+  "appId": "com.ms.testseries",
+  "appName": "MS Test Series",
+  "webDir": "www",
+  "backgroundColor": "#0a0f1e",
+  "server": { "androidScheme": "https" },
+  "android": {
+    "backgroundColor": "#0a0f1e",
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}
